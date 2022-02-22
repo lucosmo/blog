@@ -8,6 +8,6 @@ Blog app is used here:
 - [ ] CRUD
 - [ ] OMR
 - [ ] Authentication 
-- [ ] SQL database
+- [ ] SQL database: MySql
 - [ ] docker
-- [ ] AWS
+- [ ] AWS or other cloud hosting
